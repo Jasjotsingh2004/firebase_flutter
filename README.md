@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# firebase_flutter"
-![alt text](https://github.com/Jasjotsingh2004/firebase_flutter/screenshots/ss_1.PNG)
+![alt text](https://github.com/Jasjotsingh2004/firebase_flutter/tree/main/screenshots/ss_1.PNG)
